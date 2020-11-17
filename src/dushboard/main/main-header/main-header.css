@@ -1,0 +1,19 @@
+::-webkit-input-placeholder {color:#7979B2;}
+
+.MainHeader{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.Main__header_name{
+    font-size: 28px;
+}
+.MainHeader input{
+    background-color: #F3F6FF;
+    border: 5px solid #F3F6FF;
+    border-radius: 20px 5px;
+    color: #7979B2;
+    height: 32px;
+
+
+}

@@ -1,0 +1,10 @@
+.dashboard__light{
+    display: flex;
+    flex-direction: row;
+    width: 1280px;
+    height: 720px;
+    background-color: ghostwhite;
+    border-radius: 70px;
+    align-items: center;
+    justify-content: flex-end;
+}
